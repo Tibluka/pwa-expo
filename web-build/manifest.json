@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "pwaexpo",
+  "short_name": "pwaexpo",
+  "start_url": "/?utm_source=web_app_manifest",
+  "theme_color": "#6633cc",
+  "orientation": "portrait"
+}
