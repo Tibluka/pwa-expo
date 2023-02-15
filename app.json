@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pwaexpo",
-    "slug": "pwaexpo",
+    "name": "pwa-expo",
+    "slug": "pwa-expo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,8 +27,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/icon.png",
-      "themeColor": "#6633cc"
+      "favicon": "./assets/favicon.png"
     }
   }
 }
